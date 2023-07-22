@@ -1,2 +1,3 @@
-# Tarea_uneweb_Daniel_22Jul2023
-Tarea_uneweb_&lt;nombre>_22Jul2023
+# Tareas estudiantes Sábados 22jul23
+
+Tareas destinadas para la realización de lecturas por parte de los estudiantes.
